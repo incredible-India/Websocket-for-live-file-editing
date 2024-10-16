@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h" />
+  <Extern href="vsshlids.h" />
+  <Include href="KnownImageIds.vsct" />
+  <Include href="VSGlobals.vsct" />
+
+  <Commands package="Live_Server">
+    <!--This section defines the elements the user can interact with, like a menu command or a button or combo box in a toolbar. -->
+	  <Buttons>
+		  <Button guid="Live_Server" id="MyCommand" priority="0x0103" type="Button">
+			  <Parent guid="VSMainMenu" id="View.DevWindowsGroup.OtherWindows.Group1" />
+			  <Icon guid="ImageCatalogGuid" id="ToolWindow" />
+			  <CommandFlag>IconIsMoniker</CommandFlag>
+			  <Strings>
+				  <ButtonText>Live Server Window</ButtonText>
+				  <LocCanonicalName>.View.MyToolWindow</LocCanonicalName>
+			  </Strings>
+		  </Button>
+
+		  <Button guid="Live_Server_Oncommand" id="OnCommand" priority="0x0101" type="Button">
+			  <Parent guid="VSMainMenu" id="Tools.ExtensibilityGroup" />
+			  <Icon guid="ImageCatalogGuid" id="SyncServer" />
+			  <CommandFlag>IconIsMoniker</CommandFlag>
+			  <Strings>
+				  <ButtonText>Start Live Server</ButtonText>
+				  <LocCanonicalName>.View.MyToolWindow</LocCanonicalName>
+			  </Strings>
+		  </Button>
+
+		  <Button guid="Live_Server_Offcommand" id="OffCommand" priority="0x0102" type="Button">
+			  <Parent guid="VSMainMenu" id="Tools.ExtensibilityGroup" />
+			  <Icon guid="ImageCatalogGuid" id="WebServer" />
+			  <CommandFlag>IconIsMoniker</CommandFlag>
+			  <Strings>
+				  <ButtonText>Stop Server Window</ButtonText>
+				  <LocCanonicalName>.View.MyToolWindow</LocCanonicalName>
+			  </Strings>
+		  </Button>
+	  </Buttons>
+
+
+
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="Live_Server" value="{aea8da49-042d-479c-8ba2-50c8f777372e}">
+      <IDSymbol name="MyCommand" value="0x0103" />
+    </GuidSymbol>
+	  <GuidSymbol name="Live_Server_Oncommand" value="{aea8da49-042d-479c-8ba2-50c8f777373e}">
+		  <IDSymbol name="OnCommand" value="0x0101" />
+	  </GuidSymbol>
+	  <GuidSymbol name="Live_Server_Offcommand" value="{aea8da49-042d-479c-8ba2-50c8f777379e}">
+		  <IDSymbol name="OffCommand" value="0x0102" />
+	  </GuidSymbol>
+  
+ 
+  </Symbols>
+</CommandTable>

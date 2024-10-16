@@ -1,0 +1,20 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Live_Server.1bee55e6-e1d5-47ea-8ffe-50444861529e" Version="1.0" Language="en-US" Publisher="Himanshu kumar Sharma" />
+    <DisplayName>Live_Server</DisplayName>
+    <Description>Empty VSIX Project.</Description>
+    <Icon>Resources\Icon.png</Icon>
+    <PreviewImage>Resources\Icon.png</PreviewImage>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Live Server.pkgdef" />
+  </Assets>
+</PackageManifest>

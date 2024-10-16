@@ -1,0 +1,27 @@
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Community.VisualStudio.Toolkit.dll
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Resources\Icon.png
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Live Server.dll
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Live Server.pdb
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Live Server.pkgdef
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\Live Server.vsix
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\bin\Debug\extension.vsixmanifest
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.csproj.AssemblyReference.cache
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\ToolWindows\MyToolWindowControl.baml
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\ToolWindows\MyToolWindowControl.g.cs
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server_MarkupCompile.cache
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.g.resources
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\_EmptyResource.resources
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.csproj.GenerateResource.cache
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\VSCommandTable.cto
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\resources.json
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\ctoFiles.json
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\mergeCto.cache
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.dll
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.pdb
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.pkgdef
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\Live Server.latest.pkgdef
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\extension.vsixmanifest
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\files.json
+C:\Users\himanshu.y.sharma\Desktop\Live Server\Live Server\obj\Debug\createTemplateManifests.cache
